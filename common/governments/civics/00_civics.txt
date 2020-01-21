@@ -84,7 +84,6 @@ civic_rampant_vampirism = {
 
 civic_tribunal_temple = {
 	possible = {
-		authority = { NOT = { value = auth_corporate } }
 		ethics = {
 			NOR = {
 				value = ethic_xenophile
@@ -125,7 +124,6 @@ civic_imperial_cult = {
 
 civic_daedric_cults = {
 	possible = {
-		authority = { NOT = { value = auth_corporate } }
 		ethics = {
 			NOR = {
 				value = ethic_spiritualist

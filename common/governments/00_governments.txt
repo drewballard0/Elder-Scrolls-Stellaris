@@ -31,3 +31,15 @@ gov_morag_tong = {
 		base = 10
 	}
 }
+
+gov_cyrodiilic_empire = {
+	possible = {
+		has_authority = auth_imperial
+		has_valid_civic = civic_imperial_cult
+		owner = {
+			species = {
+				has_trait = trait_imperial
+			}
+		}
+	}
+}
