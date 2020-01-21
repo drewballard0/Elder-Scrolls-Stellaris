@@ -1,0 +1,61 @@
+trait_altmer = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+}
+
+trait_bosmer = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+	
+	modifier = {
+		planet_jobs_food_produces_mult = 0.15
+	}
+}
+
+trait_dunmer = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+}
+
+trait_breton = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+}
+
+trait_nord = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+	modifier = {
+		army_damage_mult = 0.2
+	}
+}
+
+trait_imperial = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+}
+
+trait_redguard = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+	modifier = {
+		ship_fire_rate_mult = 0.2
+	}
+}
+
+trait_orc = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+	modifier = {
+		planet_jobs_minerals_produces_mult = 0.15
+}
+
+trait_khajiit = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+}
+
+trait_argonian = {
+	cost = 1
+	allowed_archetypes = { BIOLOGICAL }
+}

@@ -1,0 +1,169 @@
+civic_monastic_orders = {
+	potential = {
+		ethics = { NOT = { value = ethic_gestalt_consciousness } }
+		authority = { NOT = { value = auth_corporate } }
+	}
+	possible = {
+		ethics = {
+			OR = {
+				text = civic_tooltip_spiritualist
+				value = ethic_spiritualist
+				value = ethic_fanatic_spiritualist
+			}
+		}
+	}
+	random_weight = { base = 5 }
+	# No modifier, edit temple building to add 2 monk jobs if they have this civic
+}
+
+civic_magical_constructs = {
+	modification = no
+	playable = { host_has_dlc = "Utopia" }
+	potential = {
+		ethics = { NOT = { value = ethic_gestalt_consciousness } }
+		authority = { NOT = { value = auth_corporate } }
+	}
+	possible = {
+		ethics = {
+			OR = {
+				text = civic_tooltip_materialist
+				value = ethic_materialist
+				value = ethic_fanatic_materialist
+			}
+		}
+		civics = {
+			NOR = {
+				value = civic_syncretic_evolution
+				value = civic_post_apocalyptic
+				value = civic_life_seeded
+			}
+		}
+	}
+	random_weight = {
+		base = 5
+		modifier = {
+			# civic has no effect after galaxy generation, disable for random generation
+			factor = 0
+			has_global_flag = game_started
+		}
+	}
+	modifier = { planet_pops_robotics_upkeep_mult = -0.05 }
+
+	description = "civic_tooltip_mechanists_effects"
+	#used when starting a new game to give robots (see game_start.11) and techs (see game_start.8)
+}
+
+civic_ubiquitous_lycanthropy = {
+	modification = no
+	possible = {
+		ethics = {
+			OR = {
+				text_civic_tooltip_militarist
+				value = ethic_militarist
+				value = ethic_fanatic_militarist
+			}
+		}
+	}
+	random_weight = { base = 5 }
+	# No modifier, gets a regular event that either causes devastation or planetary buffs
+}
+
+civic_rampant_vampirism = {
+	modification = no
+	possible = {
+		ethics = {
+			NOR = {
+				value = ethic_spiritualist
+				value = ethic_fanatic_spiritualist
+			}
+		}
+	}
+	random_weight = { base = 5 }
+	# No modifier, gives species rights edits and certain buffs.
+}
+
+civic_tribunal_temple = {
+	possible = {
+		ethics = {
+			NOR = {
+				value = ethic_xenophile
+				value = ethic_fanatic_xenophile
+			}
+		}
+	}
+	traits = {
+		trait = trait_dunmer
+	}
+	modifier = {
+		country_unity_produces_mult = 0.15
+	}
+	# Decreased Daedric Realm opinion
+}
+
+civic_imperial_cult = {
+	possible = {
+		ethics = {
+			NOR = {
+				value = ethic_xenophile
+				value = ethic_fanatic_xenophile
+			}
+		}
+	}
+	traits = {
+		trait = trait_imperial
+	}
+	modifier = {
+		country_unity_produces_mult = 0.15
+	}
+	# Decreased Daedric Realm opinion
+}
+
+civic_daedric_cults = {
+	possible = {
+		ethics = {
+			NOR = {
+				value = ethic_spiritualist
+				value = ethic_fanatic_spiritualist
+			}
+		}
+	}
+	modifier = {
+		pop_happiness_mult = -0.1
+	}
+	# Increased Daedric Realm opinion.
+}
+
+civic_vigilants_of_stendarr = {
+	possible = {
+		ethics = {
+			OR = {
+				text = civic_tooltip_militarist
+				value = ethic_militarist
+				value = ethic_fanatic_militarist
+			}
+		}
+	}
+}
+
+civic_east_empire_company = {
+	# No modifier, gives +100% trade value on planets that do not have an upgraded capital.
+}
+
+civic_the_sharmat = {
+	possible = {
+		ethics = {
+			NOR = {
+				value = ethic_xenophile
+				value = ethic_fanatic_xenophile
+			}
+		}
+	}
+	traits = {
+		trait = trait_dunmer
+		trait = trait_weak
+	}
+	modifier = {
+		country_unity_produces_mult = 0.20
+	}
+	# Khajiit and Argonians have to be enslaved. 
+}
