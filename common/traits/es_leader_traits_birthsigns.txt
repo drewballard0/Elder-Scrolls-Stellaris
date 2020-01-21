@@ -7,7 +7,6 @@ trait_the_apprentice = {
 		
 	}
 	opposites = { trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
-	initial = yes
 	modification = no
 }
 
@@ -20,7 +19,6 @@ trait_the_atronach = {
 		
 	}
 	opposites = { trait_the_apprentice trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
-	initial = yes
 	modification = no
 }
 
