@@ -1,4 +1,4 @@
-trait_the_apprentice = {
+trait_the_apprentice_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -10,7 +10,7 @@ trait_the_apprentice = {
 	modification = no
 }
 
-trait_the_atronach = {
+trait_the_atronach_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -22,7 +22,7 @@ trait_the_atronach = {
 	modification = no
 }
 
-trait_the_lady = {
+trait_the_lady_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -33,7 +33,7 @@ trait_the_lady = {
 	opposites = { trait_the_apprentice trait_the_atronach trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
 	modification = no
 
-trait_the_lord = {
+trait_the_lord_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -45,7 +45,7 @@ trait_the_lord = {
 	modification = no
 }
 
-trait_the_lover = {
+trait_the_lover_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -57,7 +57,7 @@ trait_the_lover = {
 	modification = no
 }
 
-trait_the_mage = {
+trait_the_mage_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -69,7 +69,7 @@ trait_the_mage = {
 	modification = no
 }
 
-trait_the_ritual = {
+trait_the_ritual_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -81,7 +81,7 @@ trait_the_ritual = {
 	modification = no
 }
 
-trait_the_serpent = {
+trait_the_serpent_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -93,7 +93,7 @@ trait_the_serpent = {
 	modification = no
 }
 
-trait_the_shadow = {
+trait_the_shadow_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -105,7 +105,7 @@ trait_the_shadow = {
 	modification = no
 }
 
-trait_the_steed = {
+trait_the_steed_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -117,7 +117,7 @@ trait_the_steed = {
 	modification = no
 }
 
-trait_the_thief = {
+trait_the_thief_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -129,7 +129,7 @@ trait_the_thief = {
 	modification = no
 }
 
-trait_the_tower = {
+trait_the_tower_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
@@ -141,7 +141,7 @@ trait_the_tower = {
 	modification = no
 }
 
-trait_the_warrior = {
+trait_the_warrior_admiral = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
