@@ -1,0 +1,21 @@
+civic_honor_among_thieves = {
+	potential = {
+		authority = { value = auth_corporate }
+	}
+	modifier = {
+		species_leader_exp_gain = 0.25
+	}
+	# Can build Thief Hideout building
+	random_weight = { base = 5 }
+}
+
+civic_assassin_guilds = {
+	potential = {
+		authority = { value = auth_corporate }
+	}
+	modifier = {
+		country_election_influence_cost_mult = -0.50
+	}
+	# Can build Assassin Sanctuary
+	random_weight = { base = 5 }
+}

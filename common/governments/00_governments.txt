@@ -1,0 +1,33 @@
+gov_thieves_guild = {
+	possible = {
+		has_authority = auth_corporate
+		has_valid_civic = civic_honor_among_thieves
+	}
+	weight = {
+		base = 5
+	}
+}
+
+gov_dark_brotherhood = {
+	possible = {
+		has_authority = auth_corporate
+		has_valid_civic = civic_assassin_guilds
+	}
+	weight = {
+		base = 5
+	}
+}
+
+gov_morag_tong = {
+	possible = {
+		has_authority = auth_corporate
+		has_valid_civic = civic_assassin_guilds
+		OR = {
+			has_valid_civic = civic_daedric_cults
+			has_valid_civic = civic_tribunal_temple
+		}
+	}
+	weight = {
+		base = 10
+	}
+}
