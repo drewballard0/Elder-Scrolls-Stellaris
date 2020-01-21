@@ -113,9 +113,6 @@ civic_imperial_cult = {
 			}
 		}
 	}
-	traits = {
-		trait = trait_imperial
-	}
 	modifier = {
 		country_unity_produces_mult = 0.15
 	}

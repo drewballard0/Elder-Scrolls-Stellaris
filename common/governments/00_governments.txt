@@ -1,4 +1,6 @@
 gov_thieves_guild = {
+	ruler_title = RT_GRAY_FOX
+	
 	possible = {
 		has_authority = auth_corporate
 		has_valid_civic = civic_honor_among_thieves
@@ -9,6 +11,8 @@ gov_thieves_guild = {
 }
 
 gov_dark_brotherhood = {
+	ruler_title = RT_LISTENER
+	
 	possible = {
 		has_authority = auth_corporate
 		has_valid_civic = civic_assassin_guilds
@@ -33,6 +37,9 @@ gov_morag_tong = {
 }
 
 gov_cyrodiilic_empire = {
+	ruler_title = RT_EMPEROR
+	ruler_title_female = RT_EMPRESS
+	
 	possible = {
 		has_authority = auth_imperial
 		has_valid_civic = civic_imperial_cult
@@ -41,5 +48,34 @@ gov_cyrodiilic_empire = {
 				has_trait = trait_imperial
 			}
 		}
+	}
+}
+
+gov_stagnant_ascendancy = {
+	ruler_title = RT_DAEDRIC_PRINCE
+	
+	should_force_rename = yes
+
+	possible = {
+		has_valid_civic = civic_lethargic_leadership
+		has_valid_civic = civic_empire_in_decline
+	}
+
+	weight = {
+		base = 100000
+	}
+}
+
+gov_fallback = {
+	ruler_title = RT_FALLBACK
+	
+	should_force_rename = no
+	
+	possible = {
+		always = yes
+	}
+	
+	weight = {
+		base = 1
 	}
 }

@@ -3,3 +3,12 @@
  gov_thieves_guild:0 "Thieves Guild"
  gov_morag_tong:0 "Morag Tong"
  gov_cyrodiilic_empire:0 "Cyrodiilic Empire"
+ 
+ gov_fallback:0 "Fallback Empire"
+ gov_fall_back_desc:0 "How does it feel to be generic?"
+ 
+ RT_EMPEROR:0 "Emperor"
+ RT_EMPRESS:0 "Empress"
+ RT_LISTENER:0 "Listener"
+ RT_GRAY_FOX:0 "Gray Fox"
+ RT_FALLBACK:0 "The Main Dude"
