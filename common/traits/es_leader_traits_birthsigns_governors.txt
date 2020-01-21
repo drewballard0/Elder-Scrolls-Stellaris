@@ -2,7 +2,7 @@ trait_the_apprentice = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -14,7 +14,7 @@ trait_the_atronach = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -26,7 +26,7 @@ trait_the_lady = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -37,7 +37,7 @@ trait_the_lord = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -49,7 +49,7 @@ trait_the_lover = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -61,7 +61,7 @@ trait_the_mage = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -73,7 +73,7 @@ trait_the_ritual = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -85,7 +85,7 @@ trait_the_serpent = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -97,7 +97,7 @@ trait_the_shadow = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -109,7 +109,7 @@ trait_the_steed = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -121,7 +121,7 @@ trait_the_thief = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -133,7 +133,7 @@ trait_the_tower = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
@@ -145,7 +145,7 @@ trait_the_warrior = {
 	cost = 0
 	modification = no
 	leader_trait = yes 
-	leader_class = { ruler }
+	leader_class = { governor }
 	modifier = {
 		
 	}
