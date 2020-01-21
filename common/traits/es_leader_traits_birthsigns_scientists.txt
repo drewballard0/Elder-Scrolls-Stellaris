@@ -6,7 +6,7 @@ trait_the_apprentice_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -18,7 +18,7 @@ trait_the_atronach_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -30,7 +30,7 @@ trait_the_lady_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 
 trait_the_lord_scientist = {
@@ -41,7 +41,7 @@ trait_the_lord_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -53,7 +53,7 @@ trait_the_lover_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -65,7 +65,7 @@ trait_the_mage_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -77,7 +77,7 @@ trait_the_ritual_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -89,7 +89,7 @@ trait_the_serpent_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -101,7 +101,7 @@ trait_the_shadow_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -113,7 +113,7 @@ trait_the_steed_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -125,7 +125,7 @@ trait_the_thief_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_tower_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -137,7 +137,7 @@ trait_the_tower_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_warrior}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_warrior_scientist }
 	modification = no
 }
 
@@ -149,6 +149,6 @@ trait_the_warrior_scientist = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower }
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist }
 	modification = no
 }

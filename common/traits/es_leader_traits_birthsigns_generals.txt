@@ -6,7 +6,7 @@ trait_the_apprentice_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -18,7 +18,7 @@ trait_the_atronach_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -30,7 +30,7 @@ trait_the_lady_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 
 trait_the_lord_general = {
@@ -41,7 +41,7 @@ trait_the_lord_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -53,7 +53,7 @@ trait_the_lover_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -65,7 +65,7 @@ trait_the_mage_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -77,7 +77,7 @@ trait_the_ritual_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -89,7 +89,7 @@ trait_the_serpent_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -101,7 +101,7 @@ trait_the_shadow_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -113,7 +113,7 @@ trait_the_steed_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -125,7 +125,7 @@ trait_the_thief_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_tower_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -137,7 +137,7 @@ trait_the_tower_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_warrior}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_warrior_general }
 	modification = no
 }
 
@@ -149,6 +149,6 @@ trait_the_warrior_general = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower }
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general }
 	modification = no
 }

@@ -6,7 +6,7 @@ trait_the_apprentice_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -18,7 +18,7 @@ trait_the_atronach_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -30,7 +30,7 @@ trait_the_lady_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 
 trait_the_lord_governor = {
@@ -41,7 +41,7 @@ trait_the_lord_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -53,7 +53,7 @@ trait_the_lover_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -65,7 +65,7 @@ trait_the_mage_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -77,7 +77,7 @@ trait_the_ritual_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -89,7 +89,7 @@ trait_the_serpent_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_shadow trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -101,7 +101,7 @@ trait_the_shadow_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_steed trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -113,7 +113,7 @@ trait_the_steed_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_thief trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_thief_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -125,7 +125,7 @@ trait_the_thief_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_tower trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_tower_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -137,7 +137,7 @@ trait_the_tower_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_warrior}
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_warrior_governor }
 	modification = no
 }
 
@@ -149,6 +149,6 @@ trait_the_warrior_governor = {
 	modifier = {
 		
 	}
-	opposites = { trait_the_apprentice trait_the_atronach trait_the_lady trait_the_lord trait_the_lover trait_the_mage trait_the_ritual trait_the_serpent trait_the_shadow trait_the_steed trait_the_thief trait_the_tower }
+	opposites = { trait_the_apprentice_governor trait_the_atronach_governor trait_the_lady_governor trait_the_lord_governor trait_the_lover_governor trait_the_mage_governor trait_the_ritual_governor trait_the_serpent_governor trait_the_shadow_governor trait_the_steed_governor trait_the_thief_governor trait_the_tower_governor }
 	modification = no
 }
