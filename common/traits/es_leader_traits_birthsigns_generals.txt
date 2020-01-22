@@ -1,0 +1,154 @@
+trait_the_apprentice_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_atronach_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_lady_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+
+trait_the_lord_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_lover_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_mage_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_ritual_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_serpent_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_shadow_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_steed_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_steed_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_thief_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_thief_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_tower_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_tower_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_warrior_general }
+	modification = no
+}
+
+trait_the_warrior_general = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { general }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_general trait_the_atronach_general trait_the_lady_general trait_the_lord_general trait_the_lover_general trait_the_mage_general trait_the_ritual_general trait_the_serpent_general trait_the_shadow_general trait_the_steed_general trait_the_thief_general trait_the_tower_general }
+	modification = no
+}

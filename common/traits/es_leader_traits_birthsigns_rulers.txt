@@ -1,0 +1,154 @@
+trait_the_apprentice_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_atronach_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_lady_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+
+trait_the_lord_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_lover_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_mage_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_ritual_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_serpent_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_shadow_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_steed_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_thief_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_thief_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_tower_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_tower_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_warrior_ruler }
+	modification = no
+}
+
+trait_the_warrior_ruler = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { ruler }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_ruler trait_the_atronach_ruler trait_the_lady_ruler trait_the_lord_ruler trait_the_lover_ruler trait_the_mage_ruler trait_the_ritual_ruler trait_the_serpent_ruler trait_the_shadow_ruler trait_the_steed_ruler trait_the_thief_ruler trait_the_tower_ruler }
+	modification = no
+}

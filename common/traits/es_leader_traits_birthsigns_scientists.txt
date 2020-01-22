@@ -1,0 +1,154 @@
+trait_the_apprentice_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_atronach_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_lady_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+
+trait_the_lord_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_lover_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_mage_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_ritual_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_serpent_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_shadow_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_steed_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_thief_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_thief_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_tower_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_tower_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_warrior_scientist }
+	modification = no
+}
+
+trait_the_warrior_scientist = {
+	cost = 0
+	modification = no
+	leader_trait = yes 
+	leader_class = { scientist }
+	modifier = {
+		
+	}
+	opposites = { trait_the_apprentice_scientist trait_the_atronach_scientist trait_the_lady_scientist trait_the_lord_scientist trait_the_lover_scientist trait_the_mage_scientist trait_the_ritual_scientist trait_the_serpent_scientist trait_the_shadow_scientist trait_the_steed_scientist trait_the_thief_scientist trait_the_tower_scientist }
+	modification = no
+}
